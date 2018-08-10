@@ -36,7 +36,7 @@ DouYuAndroid-SDK,一个基于斗鱼弹幕API封装的SDK
 
 ```
 dependencies {
-	        implementation 'com.github.xbw12138:Douyu_Android_lib:1.0'
+	        implementation 'com.github.xbw12138:Douyu_Android_lib:1.2'
 	}
 ```
 ## Usage
